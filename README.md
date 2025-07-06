@@ -1,1 +1,2 @@
 # QuillCart-AnOnlineBookStore
+QuillCart is a JavaFX-based desktop application that simulates a modern online bookstore. It allows users to browse, preview, and order books digitally, while providing administrators and accountants with role-based control panels to manage inventory, users, and transactions. The project is built using object-oriented principles in Java and aims to streamline book shopping with features like wishlist management, coupon support, order tracking, and user-friendly UI themes.
